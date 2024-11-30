@@ -66,6 +66,8 @@ function houzez_crm_admin_menu() {
 
 add_action('admin_menu', 'houzez_crm_admin_menu');
 
+
+
 // Render admin page
 function houzez_crm_page() {
     ?>
